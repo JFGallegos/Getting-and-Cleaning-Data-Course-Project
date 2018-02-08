@@ -1,3 +1,8 @@
+Summary
+
+This files contains the variables information of the tidy_data_set created for the Getting and Cleaning Data Course Project
+
+
 
 Identifiers:
 
